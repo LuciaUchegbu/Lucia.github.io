@@ -69,11 +69,10 @@ This project analyzes workplace safety and incident data across different depart
 ## 📬 Contact Details
 I’m open to collaborations, internships, and entry-level data roles.
 
-- **Email:** luciauchegbu@gmail.com  
+- **Email:** luciauchegbu@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/luciauchegbu)**  
 - **[GitHub](https://github.com/LuciaUchegbu)**
-- **Mobile Number:** +2348167865255
-
+  
 ---
 
 ⭐ *Thank you for visiting my portfolio. Feel free to explore my projects and reach out!*
